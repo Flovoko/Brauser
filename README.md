@@ -1,3 +1,3 @@
 # Brauser
 ---
-*My own Webbrowser (using WebView2)
+* My own Webbrowser (using WebView2)
